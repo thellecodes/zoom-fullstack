@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.7.1",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.4.1",
+    "mongoose": "^5.10.15",
+    "morgan": "^1.10.0",
+    "peer": "^0.5.3",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.1",
+    "websocket": "^1.0.32",
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
