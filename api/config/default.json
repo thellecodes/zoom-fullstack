@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://samuel:samuel12345@zoom.wpmiy.mongodb.net/zoom?retryWrites=true&w=majority"
+  "mongoURI": ""
 }
